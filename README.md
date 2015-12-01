@@ -47,6 +47,8 @@ You can use Alfred to
 
 `command + d` : when given "don't save, cancel, and save", triggers "don't save"; also short for saving something to the desktop
 
+`command + shift + 4` : native OS X screenshot ; `command + shift + 4`, then `space`, selects a window and its shadow
+
 ## Chrome / Sublime /  Bash / most apps with tabs
 
 `command + n` : create new window (`shift + command + n` for Sublime)
@@ -76,9 +78,9 @@ You can use Alfred to
 
 `?` : show commands
 
-`j` : scroll down
+`j` : scroll down + switch between tabs when `caps lock` is on
 
-`k` : scroll up
+`k` : scroll up + switch between tabs when `caps lock` is on
 
 `f` : show links
 
