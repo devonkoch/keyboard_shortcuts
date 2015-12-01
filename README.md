@@ -49,6 +49,8 @@ You can use Alfred to
 
 `command + shift + 4` : native OS X screenshot ; `command + shift + 4`, then `space`, selects a window and its shadow
 
+`command + j` : for Desktop, show view options to enable icon snapping and sorting
+
 ## Chrome / Sublime /  Bash / most apps with tabs
 
 `command + n` : create new window (`shift + command + n` for Sublime)
