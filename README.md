@@ -37,6 +37,13 @@ You can use Alfred to
 `gi` : return to inbox
 
 ## OSX
+
+### Desktop
+
+`command + option + l` : get downloads folder
+
+`command + option + a` : get applications folder
+
 `command + tab` : switch open applications
 
 <code>command + &#96;</code> : (when already in command + tab) switch open applications in reverse
